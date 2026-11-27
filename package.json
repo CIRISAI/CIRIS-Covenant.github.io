@@ -13,7 +13,7 @@
     "fumadocs-mdx": "11.6.0",
     "fumadocs-ui": "15.2.8",
     "katex": "^0.16.22",
-    "next": "^15.5.29",
+    "next": "15.5.29",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "rehype-katex": "^7.0.1",
@@ -26,7 +26,7 @@
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
     "eslint": "^8",
-    "eslint-config-next": "^15.5.29",
+    "eslint-config-next": "15.5.29",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.4",
     "typescript": "^5.8.3"
